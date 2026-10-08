@@ -1,6 +1,6 @@
 export const PROFILE = {
   name: 'Md. Hasibul Hossain', firstName: 'Hasibul', role: 'Front-End Developer',
-  email: 'hasibhossain30293@gmail.com', phone: '01867769244', location: 'Chittagong, Bangladesh',
+  email: 'hasibhossain30293@gmail.com', phone: '01867769244', location: 'Dhaka, Bangladesh',
   github: 'https://github.com/Hasib30293', linkedin: 'https://linkedin.com/in/hasibul-hossain293', resume: '/resume.pdf',
   summary: 'CSE graduate skilled in building responsive, accessible web interfaces with HTML, CSS, JavaScript/TypeScript and React. I have taken three projects from Figma design to working code, including real-time messaging and Supabase authentication. Looking for a front-end internship where I can turn UI designs into clean interfaces, learn from code reviews, and work with backend teams.'
 } as const;
