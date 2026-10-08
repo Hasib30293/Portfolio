@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Portfolio full project view](<portfolio-v1m1.vercel.app_ (1).png>)
+![Portfolio full project view](<<img width="1334" height="16384" alt="portfolio-v1m1 vercel app_ (1)" src="https://github.com/user-attachments/assets/f58c29b0-33eb-42f3-bf8a-73f9aacfd582" />)
 
 </div>
 
