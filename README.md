@@ -109,10 +109,10 @@ All copy lives in [`src/lib/data.ts`](./src/lib/data.ts) — update `PROFILE`, `
 
 <div align="center">
 
-**Md. Hasibul Hossain** · Front-End Developer · Dhaka, Bangladesh
+**Md. Hasibul Hossain** · Full Stack Developer · Dhaka, Bangladesh
 
 [Email](mailto:hasibhossain30293@gmail.com) · [GitHub](https://github.com/Hasib30293) · [LinkedIn](https://linkedin.com/in/hasibul-hossain293)
 
-*Looking for a front-end internship — open to code reviews and backend collaboration.*
+*Looking for a full stack internship — open to code reviews and backend collaboration.*
 
 </div>
