@@ -17,7 +17,7 @@ export const PROJECTS = [
 ];
 
 export const EDUCATION = [
-  { year: '2022 — 2026', title: 'BSc in Computer Science and Engineering', place: 'United International University', detail: 'CGPA: 3.8' },
+  { year: '2022 — 2026', title: 'BSc in Computer Science and Engineering', place: 'United International University', detail: 'CGPA: 3.84' },
   { year: '2019 — 2021', title: 'Higher Secondary Certificate', place: 'Nou-Bahini College, Chittagong', detail: 'GPA: 5.00' }
 ];
 
